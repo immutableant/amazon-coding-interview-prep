@@ -6,10 +6,13 @@ This repository contains solutions and reference materials for various coding in
 
 1. [LRU Cache](lru_cache_reference.md)  
    A data structure that implements the Least Recently Used (LRU) cache with O(1) operations for `get` and `put` methods.
-   
+
 2. [Trapping Rain Water](trapping_rain_water.md)  
    An algorithm to calculate how much water can be trapped between elevation bars after raining.
 
+3. [Number of Islands](number_of_islands.md)  
+   A solution to count the number of islands in a 2D grid using DFS and BFS approaches.
+   
 ---
 
 ### Usage
