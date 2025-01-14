@@ -12,7 +12,9 @@ This repository contains solutions and reference materials for various coding in
 
 3. [Number of Islands](number_of_islands.md)  
    A solution to count the number of islands in a 2D grid using DFS and BFS approaches.
-   
+
+4. [Group Anagrams](group_anagrams.md)  
+   A method to group words that are anagrams of each other using sorting or character count.
 ---
 
 ### Usage
