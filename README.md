@@ -15,6 +15,10 @@ This repository contains solutions and reference materials for various coding in
 
 4. [Group Anagrams](group_anagrams.md)  
    A method to group words that are anagrams of each other using sorting or character count.
+
+5. [Longest Substring Without Repeating Characters](longest_substring_no_repeats.md)  
+   An algorithm to find the length of the longest substring without repeating characters using the sliding window technique.
+   
 ---
 
 ### Usage
