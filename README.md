@@ -18,6 +18,9 @@ This repository contains solutions and reference materials for various coding in
 
 5. [Longest Substring Without Repeating Characters](longest_substring_no_repeats.md)  
    An algorithm to find the length of the longest substring without repeating characters using the sliding window technique.
+
+6. [Course Schedule](course_schedule.md)
+   A graph-based solution to determine if all courses can be completed given prerequisite dependencies.
    
 ---
 
