@@ -24,6 +24,9 @@ This repository contains solutions and reference materials for various coding in
 
 7. [Word Ladder](word_ladder.md)  
    A solution to find the shortest transformation sequence between words using BFS and Bidirectional BFS.
+
+8. [Merge k Sorted Lists](merge_k_sorted_lists.md)  
+   An efficient method to merge multiple sorted linked lists using a Min-Heap or Divide-and-Conquer approach.
    
 ---
 
