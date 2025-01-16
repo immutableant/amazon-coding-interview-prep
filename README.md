@@ -21,6 +21,9 @@ This repository contains solutions and reference materials for various coding in
 
 6. [Course Schedule](course_schedule.md)
    A graph-based solution to determine if all courses can be completed given prerequisite dependencies.
+
+7. [Word Ladder](word_ladder.md)  
+   A solution to find the shortest transformation sequence between words using BFS and Bidirectional BFS.
    
 ---
 
