@@ -27,6 +27,10 @@ This repository contains solutions and reference materials for various coding in
 
 8. [Merge k Sorted Lists](merge_k_sorted_lists.md)  
    An efficient method to merge multiple sorted linked lists using a Min-Heap or Divide-and-Conquer approach.
+
+9. [Maximum Subarray](maximum_subarray.md)  
+   A solution to find the contiguous subarray with the largest sum using Kadane's Algorithm and Divide and Conquer.
+
    
 ---
 
