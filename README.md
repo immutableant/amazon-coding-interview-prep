@@ -31,6 +31,8 @@ This repository contains solutions and reference materials for various coding in
 9. [Maximum Subarray](maximum_subarray.md)  
    A solution to find the contiguous subarray with the largest sum using Kadane's Algorithm and Divide and Conquer.
 
+10. [Meeting Rooms II](meeting_rooms_ii.md)  
+    An algorithm to determine the minimum number of meeting rooms required using Min-Heap and Two-Pointer techniques.
    
 ---
 
