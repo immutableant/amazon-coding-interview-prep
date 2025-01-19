@@ -33,6 +33,9 @@ This repository contains solutions and reference materials for various coding in
 
 10. [Meeting Rooms II](meeting_rooms_ii.md)  
     An algorithm to determine the minimum number of meeting rooms required using Min-Heap and Two-Pointer techniques.
+
+11. [K Closest Points to Origin](k_closest_points.md)  
+    A solution to find the `k` closest points to the origin using Min-Heap and Max-Heap approaches.
    
 ---
 
